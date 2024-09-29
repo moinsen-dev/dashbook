@@ -1,3 +1,5 @@
+## [0.1.16]
+ - Bump version of web
 ## [0.1.15]
  - Bump version of flutter_colorpicker
 
@@ -5,7 +7,7 @@
  - Change the unselected chapter color
  - Handle supported locales properties
  - Make use of web instead of dart:html
- - Handle space in the shared url 
+ - Handle space in the shared url
 
 ## [0.1.13]
  - Add global showDialog method using non-root navigator so that dialogs only close themselves.
